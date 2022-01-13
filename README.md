@@ -1,0 +1,1 @@
+This repo is used to demonstrate the bug reported in [this issue](https://github.com/Unity-Technologies/Unity-Robotics-Hub/issues/343).
